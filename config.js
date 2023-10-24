@@ -12,8 +12,8 @@ global.owner = [
   [''] 
 ] //Number of owners
 
-global.mods = ['923140870854','923140870854'] 
-global.prems = ['923140870854', '923140870854', '923140870854']
+global.mods = ['923145624701','923145624701'] 
+global.prems = ['923145624701', '923145624701', '923145624701']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -58,7 +58,7 @@ global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 🐼 Queen Hentai 🐼..._*'
+global.wait = '*💝 _Waiting Bro Uploading by 🐼 Dani Official 🐼..._*'
 global.rwait = '🇱🇰'
 global.dmoji = '🤣'
 global.done = '👍'
